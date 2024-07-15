@@ -3,7 +3,7 @@ In this python project we have build grocery management web app. It maintains de
 
 
 
-In this python project, we will build a grocery store management application. It will be 3 tier application,
+It will be 3 tier application,
 
 Front end  :  UI is written in HTML/CSS/Javascript/Bootstrap
 
